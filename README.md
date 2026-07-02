@@ -132,4 +132,7 @@ A production-grade agentic system using LangGraph that detects pipeline failures
 ## 🐍 Contribution Graph
 
 ![Snake Animation](https://github.com/priyakadiyam-dev/priyakadiyam-dev/blob/output/github-contribution-grid-snake-dark.svg)
-*Building production AI systems — one agent at a time.* 🚀
+
+---
+
+🔭 Always open to collaborating on **Agentic AI**, **Production RAG Systems**, and **Enterprise AI** projects that push the boundaries of what AI can do in the real world.
