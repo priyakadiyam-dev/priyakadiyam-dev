@@ -129,5 +129,7 @@ A production-grade agentic system using LangGraph that detects pipeline failures
 [![Email](https://img.shields.io/badge/Email-pallavikadiyam073@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pallavikadiyam073@gmail.com)
 
 ---
+## 🐍 Contribution Graph
 
+![Snake Animation](https://github.com/priyakadiyam-dev/priyakadiyam-dev/blob/output/github-contribution-grid-snake-dark.svg)
 *Building production AI systems — one agent at a time.* 🚀
