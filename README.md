@@ -110,7 +110,7 @@ A production-grade agentic system using LangGraph that detects pipeline failures
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyakadiyam-dev&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyakadiyam-dev&theme=react-dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyakadiyam-dev&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=priyakadiyam-dev&theme=radical&hide_border=true)
 
 ---
 
