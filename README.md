@@ -1,4 +1,4 @@
-# Hi there, I'm Pallavi Priya Kadiyam 👋
+# Hi there, I'm Pallavi Priya K 👋
 
 ### Applied AI Engineer | Production GenAI Systems | Agentic AI | RAG Platforms | AWS • GCP • Kubernetes
 
